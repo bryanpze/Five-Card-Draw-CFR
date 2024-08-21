@@ -2,7 +2,7 @@
 
 **University of Warwick - EC331 Dissertation Project**  
 **Project Title:** Searching For Nash At Monte Carlo: Approximating Optimal Strategies For Five-Card Draw Poker  
-**Author:** [Your Name]  
+**Author:** Bryan Pek
 **Grade:** High First (88%)
 
 ## Overview
